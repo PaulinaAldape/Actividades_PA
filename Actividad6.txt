@@ -1,0 +1,18 @@
+ACTIVIDAD 6
+
+1.Crea un algoritmo para mi actividad favorita
+
+-Algoritmo para leer un libro
+
+1.¿Estoy de pie? 
+	-Sí 
+	2.Camino hacia mi buró.
+	-No
+	2.Me levanto.
+	3.Camino hacia mi Buró.
+4.Tomo el libro que deseeo leer.
+5.Camino hacia el sillón.
+6.Me siento en el sillón.
+7.Abro el libro.
+8.Comienzo a leer.
+
